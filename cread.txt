@@ -1,4 +1,3 @@
 username = Tanush
 password = 22052005
-
-name =  Tanush Govind utekar
+name =  Tanush Utekar 
