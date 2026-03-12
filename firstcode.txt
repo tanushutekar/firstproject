@@ -1,6 +1,5 @@
 hello world !!!
 my name is Tanush!
 
-this is my data
-refere data     
+this is my data    
 Tanush Utekar
